@@ -27,22 +27,22 @@ This project explores public sentiment around Elon Musk's acquisition of Twitter
 ## 📸 Sample Visuals
 
 ### 🔹 Word Cloud (Combined Dataset)
-![Word Cloud](./images/word%20cloud.png)
+![Word Cloud](./Sentiment-Analysis-Elon-Musk-Twitter/images/word%20cloud.png)
 
 ### 🔹 Normalised Sentiment Score Distribution
-![Sentiment Histogram](./images/Normalised%20sentiment%20score%20distribution.png)
+![Sentiment Histogram](./Sentiment-Analysis-Elon-Musk-Twitter/images/Normalised%20sentiment%20score%20distribution.png)
 
 ## 📂 Files & Access
 
 ### 📁 Code
-- 🧪 [Jupyter Notebook](./code/CombinedCommentInfo.ipynb)
+- 🧪 [Jupyter Notebook](./Sentiment-Analysis-Elon-Musk-Twitter/code/CombinedCommentInfo.ipynb)
 
 ### 📁 Data
-- 📊 [Reddit Comments (Combined)](./data/1104-RedditCommentsCombined.xlsx)
-- 📊 [YouTube Comments (Combined)](./data/3081-YouTubeCommentsCombined.xlsx)
+- 📊 [Reddit Comments (Combined)](./Sentiment-Analysis-Elon-Musk-Twitter/data/1104-RedditCommentsCombined.xlsx)
+- 📊 [YouTube Comments (Combined)](./Sentiment-Analysis-Elon-Musk-Twitter/data/3081-YouTubeCommentsCombined.xlsx)
 
 ### 📁 Report
-- 📄 [Sentiment Analysis Report (PDF)](./report/Sentiment-Analysis-Elon-Musk-Twitter.pdf)
+- 📄 [Sentiment Analysis Report (PDF)](./Sentiment-Analysis-Elon-Musk-Twitter/report/Sentiment-Analysis-Elon-Musk-Twitter.pdf)
 
 ## 🧠 Skills Demonstrated
 - Working with public APIs (Reddit & YouTube)
@@ -63,4 +63,4 @@ This project explores public sentiment around Elon Musk's acquisition of Twitter
 
 ---
 
-> 📁 [Return to Main Portfolio](..)
+> 📁 [Return to Main Portfolio](../..)
