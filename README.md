@@ -18,12 +18,12 @@ I'm a Data Analyst with an MSc in Data Science and Analytics. I enjoy solving re
 ## 📂 Project Portfolio
 
 ### 🔷 Power BI Dashboards
-1. [CQC Adult Care Home Analysis](./1%20-%20Power%20BI%20CQC-Care-Home-Analysis/)([Power BI] CQC-Care-Home-Analysis)
-2. [AdventureWorks Sales Dashboard](./2%20-%20Power%20BI%20AdventureWorks-Sales-Dashboard/)
-3. [Customer Sales Insights](./3%20-%20Power%20BI%20Customer-Sales-Insights/)
+1. [CQC Adult Care Home Analysis](./Power%20BI%20CQC-Care-Home-Analysis/)
+2. [AdventureWorks Sales Dashboard](./Power%20BI%20AdventureWorks-Sales-Dashboard/)
+3. [Customer Sales Insights](./Power%20BI%20Customer-Sales-Insights/)
 
 ### 🧪 Python & Machine Learning
-4. [Sentiment Analysis: Elon Musk’s Twitter Takeover](./4%20-%20Sentiment-Analysis-Elon-Musk-Twitter/)
+4. [Sentiment Analysis: Elon Musk’s Twitter Takeover](./Sentiment-Analysis-Elon-Musk-Twitter/)
 5. [Stock Price Prediction: Linear Regression vs LSTM](./Stock%20Prediction%20-%20LR%20vs%20LSTM/)
 6. [Crypto Trading: ML + Expert Strategy (MSc Project)](./ML%20%2B%20Expert-Trading/)
 
