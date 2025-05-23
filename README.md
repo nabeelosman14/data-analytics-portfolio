@@ -18,7 +18,7 @@ I'm a Data Analyst with an MSc in Data Science and Analytics. I enjoy solving re
 ## 📂 Project Portfolio
 
 ### 🔷 Power BI Dashboards
-1. [CQC Adult Care Home Analysis](./1%20-%20Power%20BI%20CQC-Care-Home-Analysis/)
+1. [CQC Adult Care Home Analysis](./1%20-%20Power%20BI%20CQC-Care-Home-Analysis/)([Power BI] CQC-Care-Home-Analysis)
 2. [AdventureWorks Sales Dashboard](./2%20-%20Power%20BI%20AdventureWorks-Sales-Dashboard/)
 3. [Customer Sales Insights](./3%20-%20Power%20BI%20Customer-Sales-Insights/)
 
