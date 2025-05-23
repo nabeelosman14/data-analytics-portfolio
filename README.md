@@ -35,7 +35,7 @@ I'm a Data Analyst with an MSc in Data Science and Analytics. I enjoy using data
 ## 📬 Let's Connect
 
 - 📧 Email: [nabeel.osman14@gmail.com](mailto:nabeel.osman14@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/nabeelosman](https://linkedin.com/in/nabeelosman)
+- 💼 LinkedIn: [linkedin.com/in/nabeelosman](https://linkedin.com/in/nabeel-juma)
 
 ---
 
