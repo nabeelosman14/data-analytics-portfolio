@@ -20,6 +20,8 @@ This Power BI dashboard was created to analyse customer purchasing behaviour fro
 - 📎 [.pbix Power BI File](./Customer_sales_dashboard.pbix)
 - 📎 [Dataset (CSV)](./Customer_sales_dataset.csv)
 
+
+> 📁 [Return to Main Portfolio](..)
 ## 🧠 Skills Demonstrated
 - Basic dashboard design and layout structuring
 - Initial use of DAX for simple KPIs
