@@ -52,4 +52,4 @@ This project compares two approaches — traditional Linear Regression and an LS
 
 ---
 
-> 📁 [Return to Main Portfolio](../README.md)
+> 📁 [Return to Main Portfolio](..)
